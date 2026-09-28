@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://armanshah94780-hub.github.io/arman-shah-packers-movers/sitemap.xml
+Sitemap: https://arman-shah-packers-movers.vercel.app/sitemap.xml
